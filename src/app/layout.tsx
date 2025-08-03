@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Chào mừng bạn đến với website AZHSK.VN",
   description: "Chào mừng bạn đến với website AZHSK.VN",
-  robots: "noindex, nofollow",
+  robots: "index, follow",
 };
 
 export default function RootLayout({
