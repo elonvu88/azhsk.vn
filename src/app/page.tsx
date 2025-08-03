@@ -21,7 +21,7 @@ export default function Home() {
         }}
       >
         <h1 style={{ textAlign: 'center', fontSize: '2em', color: 'white', margin: 0 }}>
-          Chào mừng bạn đến với website AZHSK.COM.VN
+          Chào mừng bạn đến với website AZHSK.VN
         </h1>
       </div>
     </main>
